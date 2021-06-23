@@ -1,0 +1,7 @@
+#root {
+  background-color: lightBlue;
+  width: 100vh;
+  height: 100vh;
+  background-image: url("../assets/jpg.jpg");
+  background-repeat: no-repeat;
+}
