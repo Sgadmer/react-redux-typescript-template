@@ -6,6 +6,7 @@
 - [ ] Redux
 - [ ] Typescript
 - [ ] StoryBook
+- [ ] SCSS
 
 # Установка:
 > ___npm install___
