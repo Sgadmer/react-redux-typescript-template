@@ -7,12 +7,16 @@
 - [x] Typescript
 - [ ] StoryBook
 - [x] SCSS
+- [x] Babel
 
 # Установка:
-> ___npm install___
+> ___yarn install___
 
 # Запуск:
-> ___npm run dev___
+> ___yarn start___
+
+# Сборка development
+> ___yarn dev___
 
 # Сборка production
-> ___npm run build___
+> ___yarn build___
