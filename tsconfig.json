@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es5",
+    "jsx": "react",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "declaration": false,
+    "removeComments": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "strict": true,
+    "outDir": "build",
+    "lib": ["es6", "es7", "dom"],
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["src/*"],
+      "@static/*": ["static/*"],
+      "@app/*": ["src/app/*"],
+      "@components/*": ["src/app/components/*"],
+      "@constants/*": ["src/app/constants/*"],
+      "@contexts/*": ["src/app/contexts/*"],
+      "@hocs/*": ["src/app/hocs/*"],
+      "@hooks/*": ["src/app/hooks/*"],
+      "@layouts/*": ["src/app/layouts/*"],
+      "@models/*": ["src/app/models/*"],
+      "@pages/*": ["src/app/pages/*"],
+      "@services/*": ["src/app/services/*"],
+      "@styles/*": ["src/app/styles/*"],
+      "@utils/*": ["src/app/utils/*"]
+    },
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["build", "node_modules", "src/**/*stories.tsx"]
+}

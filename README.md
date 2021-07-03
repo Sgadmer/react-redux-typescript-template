@@ -2,11 +2,11 @@
 
 # Стэк:
 - [x] Webpack
-- [ ] React
+- [x] React
 - [ ] Redux
-- [ ] Typescript
+- [x] Typescript
 - [ ] StoryBook
-- [ ] SCSS
+- [x] SCSS
 
 # Установка:
 > ___npm install___
