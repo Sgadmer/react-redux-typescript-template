@@ -1,5 +1,3 @@
-export const test = [
-    'asdasd',
-    'asfafas',
-    'asfafa666000s',
-]
+const test = ['asdasd', 'asfafas', 'asfafa666000s']
+
+export default test

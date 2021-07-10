@@ -31,7 +31,8 @@
       "@styles/*": ["src/app/styles/*"],
       "@utils/*": ["src/app/utils/*"]
     },
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true
   },
-  "exclude": ["build", "node_modules", "src/**/*stories.tsx"]
+  "exclude": ["build", "node_modules", "src/**/*stories.tsx", "static/**"]
 }

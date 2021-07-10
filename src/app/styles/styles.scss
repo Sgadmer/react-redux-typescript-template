@@ -1,0 +1,16 @@
+@import '~normalize.css';
+@import 'roboto';
+
+:root {
+  --color1: lightBlue;
+  --color2: darkBlue;
+}
+
+.test {
+  background-color: lightgoldenrodyellow;
+  width: 100vh;
+  height: 100vh;
+  background-image: url(~@/assets/jpg.jpg);
+  background-repeat: no-repeat;
+  font-family: 'Roboto', sans-serif;
+}

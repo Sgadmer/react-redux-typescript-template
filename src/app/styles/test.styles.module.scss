@@ -1,5 +1,13 @@
 .root {
   &__text {
-    color: pink;
+    color: var(--color-primary);
   }
+}
+
+.ThemeLight {
+  --color-primary: var(--color1);
+}
+
+.ThemeDark {
+  --color-primary: var(--color2);
 }

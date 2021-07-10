@@ -1,4 +1,4 @@
-export enum testEnum {
+export enum TestEnum {
   Mama = "mama",
-  Papa = "papa",
+  Papa = 'papa',
 }
