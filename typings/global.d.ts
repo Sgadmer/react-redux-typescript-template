@@ -16,6 +16,12 @@ declare module '*.png' {
 declare module '*.svg' {
   const image: any
   export = image;
+
+
+
+
+
+  
 }
 
 declare module '*.json' {
