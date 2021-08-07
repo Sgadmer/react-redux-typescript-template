@@ -14,15 +14,6 @@
     "stylelint": "stylelint **/*.scss",
     "stylelint-fix": "stylelint **/*.scss --fix"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "**/*.{js,jsx,ts,tsx}": "eslint-fix",
-    "**/*.scss": "stylelint-fix"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sgadmer/react-redux-typescript-template.git"
