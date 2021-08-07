@@ -28,6 +28,7 @@
       "@models/*": ["src/app/models/*"],
       "@pages/*": ["src/app/pages/*"],
       "@services/*": ["src/app/services/*"],
+      "@store/*": ["src/app/store/*"],
       "@styles/*": ["src/app/styles/*"],
       "@utils/*": ["src/app/utils/*"]
     },
