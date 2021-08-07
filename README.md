@@ -3,7 +3,7 @@
 # Стэк:
 - [x] Webpack
 - [x] React
-- [ ] Redux
+- [x] Redux
 - [x] Typescript
 - [ ] StoryBook
 - [x] SCSS
