@@ -4,6 +4,7 @@
 - [x] Webpack
 - [x] React
 - [x] Redux
+- [x] Saga
 - [x] Typescript
 - [ ] StoryBook
 - [x] SCSS
