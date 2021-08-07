@@ -127,6 +127,7 @@ module.exports = {
       '@models': getPath('src/app/models'),
       '@pages': getPath('src/app/pages'),
       '@services': getPath('src/app/services'),
+      '@store': getPath('src/app/store'),
       '@styles': getPath('src/app/styles'),
       '@utils': getPath('src/app/utils'),
       'react-dom': '@hot-loader/react-dom',

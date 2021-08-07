@@ -23,6 +23,7 @@ module.exports = {
     'linebreak-style': 'off',
     'react/prop-types': 'off',
     'no-underscore-dangle': 'warn',
+    'no-param-reassign': ['error', { 'props': false }],
     'react/jsx-props-no-spreading': 'warn',
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
