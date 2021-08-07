@@ -19,8 +19,8 @@
     }
   },
   "lint-staged": {
-    "**/*.{js,jsx,ts,tsx}": "eslint --fix",
-    "**/*.scss": "stylelint --fix"
+    "**/*.{js,jsx,ts,tsx}": "eslint-fix",
+    "**/*.scss": "stylelint-fix"
   },
   "repository": {
     "type": "git",
